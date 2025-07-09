@@ -12,4 +12,14 @@ The project involves both PCB design using Altium Designer and C firmware develo
 - **USB Serial Communication**: Allows configuration, data logging, and real-time interaction with the controller.
 - **Galvanic Isolation**: Ensures connected PC is safe from high power circuitry.
 
+## Gallery
+
+<p align="center">
+    <img src="./images/v1/top wires.jpg" width="60%">
+    <br>
+    <img src="./images/v2/top wires.jpg" width="60%">
+</p>
+
+More in [`./images/`](./images/).
+
 ---
